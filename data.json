@@ -1,0 +1,819 @@
+{
+    "clonewars": [
+        {
+            "season": 5,
+            "episode": 20 
+        },
+        {
+            "season": 7,
+            "episode": 9 
+        },
+        {
+            "season": 7,
+            "episode": 10 
+        },
+        {
+            "season": 7,
+            "episode": 11
+        },
+        {
+            "season": 7,
+            "episode": 12
+        },
+        {
+            "season": 1,
+            "episode": 2
+        },
+        {
+            "season": 1,
+            "episode": 19
+        },
+        {
+            "season": 2,
+            "episode": 11
+        },
+        {
+            "season": 3,
+            "episode": 15
+        },
+        {
+            "season": 3,
+            "episode": 16
+        },
+        {
+            "season": 3,
+            "episode": 17
+        },
+        {
+            "season": 3,
+            "episode": 21
+        },
+        {
+            "season": 3,
+            "episode": 22
+        },
+        {
+            "season": 4,
+            "episode": 14
+        },
+        {
+            "season": 5,
+            "episode": 17
+        },
+        {
+            "season": 5,
+            "episode": 18
+        },
+        {
+            "season": 5,
+            "episode": 19
+        },
+        {
+            "season": 7,
+            "episode": 5
+        },
+        {
+            "season": 7,
+            "episode": 6
+        },
+        {
+            "season": 7,
+            "episode": 7
+        },
+        {
+            "season": 7,
+            "episode": 8
+        },
+        {
+            "season": 1,
+            "episode": 9 
+        },
+        {
+            "season": 2,
+            "episode": 8 
+        },
+        {
+            "season": 2,
+            "episode": 11 
+        },
+        {
+            "season": 3,
+            "episode": 7 
+        },
+        {
+            "season": 3,
+            "episode": 15 
+        },
+        {
+            "season": 3,
+            "episode": 16 
+        },
+        {
+            "season": 3,
+            "episode": 17 
+        },
+        {
+            "season": 3,
+            "episode": 21 
+        },
+        {
+            "season": 3,
+            "episode": 22
+        },
+        {
+            "season": 5,
+            "episode": 2 
+        },
+        {
+            "season": 5,
+            "episode": 3
+        },
+        {
+            "season": 5,
+            "episode": 4
+        },
+        {
+            "season": 5,
+            "episode": 20
+        },
+        {
+            "season": 7,
+            "episode": 9 
+        },
+        {
+            "season": 7,
+            "episode": 10 
+        },
+        {
+            "season": 7,
+            "episode": 11
+        },
+        {
+            "season": 7,
+            "episode": 12
+        },
+        {
+            "season": 1,
+            "episode": 2 
+        },
+        {
+            "season": 1,
+            "episode": 19 
+        },
+        {
+            "season": 3,
+            "episode": 21 
+        },
+        {
+            "season": 3,
+            "episode": 22 
+        },
+        {
+            "season": 5,
+            "episode": 17 
+        },
+        {
+            "season": 5,
+            "episode": 18
+        },
+        {
+            "season": 5,
+            "episode": 19
+        },
+        {
+            "season": 5,
+            "episode": 20
+        },
+        {
+            "season": 7,
+            "episode": 5
+        },
+        {
+            "season": 7,
+            "episode": 6
+        },
+        {
+            "season": 7,
+            "episode": 7
+        },
+        {
+            "season": 7,
+            "episode": 8
+        },
+        {
+            "season": 7,
+            "episode": 9
+        },
+        {
+            "season": 7,
+            "episode": 10
+        },
+        {
+            "season": 7,
+            "episode": 11
+        },
+        {
+            "season": 7,
+            "episode": 12
+        },
+        {
+            "season": 1,
+            "episode": 9
+        },
+        {
+            "season": 1,
+            "episode": 19
+        },
+        {
+            "season": 2,
+            "episode": 6
+        },
+        {
+            "season": 3,
+            "episode": 7
+        },
+        {
+            "season": 3,
+            "episode": 16
+        },
+        {
+            "season": 3,
+            "episode": 21
+        },
+        {
+            "season": 4,
+            "episode": 14
+        },
+        {
+            "season": 5,
+            "episode": 20
+        },
+        {
+            "season": 7,
+            "episode": 11
+        },
+        {
+            "season": 7,
+            "episode": 12
+        },
+        {
+            "season": 5,
+            "episode": 20
+        },
+        {
+            "season": 7,
+            "episode": 9
+        },
+        {
+            "season": 7,
+            "episode": 10
+        },
+        {
+            "season": 7,
+            "episode": 11
+        },
+        {
+            "season": 7,
+            "episode": 12
+        },
+        {
+            "season": 1,
+            "episode": 2
+        },
+        {
+            "season": 1,
+            "episode": 19
+        },
+        {
+            "season": 2,
+            "episode": 11
+        },
+        {
+            "season": 3,
+            "episode": 15
+        },
+        {
+            "season": 3,
+            "episode": 16
+        },
+        {
+            "season": 3,
+            "episode": 17
+        },
+        {
+            "season": 3,
+            "episode": 21
+        },
+        {
+            "season": 3,
+            "episode": 22
+        },
+        {
+            "season": 4,
+            "episode": 14
+        },
+        {
+            "season": 5,
+            "episode": 17
+        },
+        {
+            "season": 5,
+            "episode": 18
+        },
+        {
+            "season": 5,
+            "episode": 19
+        },
+        {
+            "season": 7,
+            "episode": 5
+        },
+        {
+            "season": 7,
+            "episode": 6
+        },
+        {
+            "season": 7,
+            "episode": 7
+        },
+        {
+            "season": 7,
+            "episode": 8
+        },
+        {
+            "season": 1,
+            "episode": 19
+        },
+        {
+            "season": 2,
+            "episode": 6
+        },
+        {
+            "season": 3,
+            "episode": 21
+        },
+        {
+            "season": 3,
+            "episode": 22
+        },
+        {
+            "season": 5,
+            "episode": 17
+        },
+        {
+            "season": 5,
+            "episode": 18
+        },
+        {
+            "season": 5,
+            "episode": 19
+        },
+        {
+            "season": 5,
+            "episode": 20
+        },
+        {
+            "season": 7,
+            "episode": 9
+        },
+        {
+            "season": 7,
+            "episode": 10
+        },
+        {
+            "season": 7,
+            "episode": 11
+        },
+        {
+            "season": 7,
+            "episode": 12
+        },
+        {
+            "season": 2,
+            "episode": 6
+        },
+        {
+            "season": 5,
+            "episode": 9
+        },
+        {
+            "season": 7,
+            "episode": 10
+        }
+    ],
+
+    "rebels": [
+        {
+            "season": 1,
+            "episode": 15
+        },
+        {
+            "season": 2,
+            "episode": 18 
+        },
+        {
+            "season": 2,
+            "episode": 21 
+        },
+        {
+            "season": 2,
+            "episode": 22 
+        },
+        {
+            "season": 4,
+            "episode": 15 
+        },
+        {
+            "season": 2,
+            "episode": 1 
+        },
+        {
+            "season": 2,
+            "episode": 2 
+        },
+        {
+            "season": 4,
+            "episode": 12
+        },
+        {
+            "season": 4,
+            "episode": 13 
+        },
+        {
+            "season": 1,
+            "episode": 7 
+        },
+        {
+            "season": 2,
+            "episode": 8 
+        },
+        {
+            "season": 2,
+            "episode": 18 
+        },
+        {
+            "season": 2,
+            "episode": 21 
+        },
+        {
+            "season": 2,
+            "episode": 22 
+        },
+        {
+            "season": 3,
+            "episode": 4 
+        },
+        {
+            "season": 3,
+            "episode": 5 
+        },
+        {
+            "season": 3,
+            "episode": 15
+        },
+        {
+            "season": 3,
+            "episode": 16 
+        },
+        {
+            "season": 3,
+            "episode": 21 
+        },
+        {
+            "season": 3,
+            "episode": 22 
+        },
+        {
+            "season": 4,
+            "episode": 1 
+        },
+        {
+            "season": 4,
+            "episode": 2
+        },
+        {
+            "season": 4,
+            "episode": 9
+        },
+        {
+            "season": 4,
+            "episode": 10
+        },
+        {
+            "season": 4,
+            "episode": 13 
+        },
+        {
+            "season": 4,
+            "episode": 15
+        },
+        {
+            "season": 4,
+            "episode": 16
+        },
+        {
+            "season": 1,
+            "episode": 1
+        },
+        {
+            "season": 1,
+            "episode": 2
+        },
+        {
+            "season": 1,
+            "episode": 15
+        },
+        {
+            "season": 2,
+            "episode": 1
+        },
+        {
+            "season": 2,
+            "episode": 2
+        },
+        {
+            "season": 2,
+            "episode": 3
+        },
+        {
+            "season": 2,
+            "episode": 4
+        },
+        {
+            "season": 2,
+            "episode": 18
+        },
+        {
+            "season": 2,
+            "episode": 21
+        },
+        {
+            "season": 2,
+            "episode": 22
+        },
+        {
+            "season": 3,
+            "episode": 5
+        },
+        {
+            "season": 3,
+            "episode": 8
+        },
+        {
+            "season": 3,
+            "episode": 10
+        },
+        {
+            "season": 3,
+            "episode": 15
+        },
+        {
+            "season": 3,
+            "episode": 17
+        },
+        {
+            "season": 3,
+            "episode": 21
+        },
+        {
+            "season": 3,
+            "episode": 22
+        },
+        {
+            "season": 4,
+            "episode": 10
+        },
+        {
+            "season": 4,
+            "episode": 12
+        },
+        {
+            "season": 4,
+            "episode": 13
+        },
+        {
+            "season": 4,
+            "episode": 15
+        },
+        {
+            "season": 4,
+            "episode": 16
+        },
+        {
+            "season": 3,
+            "episode": 16
+        },
+        {
+            "season": 1,
+            "episode": 1
+        },
+        {
+            "season": 3,
+            "episode": 1
+        },
+        {
+            "season": 3,
+            "episode": 2
+        },
+        {
+            "season": 1,
+            "episode": 14
+        },
+        {
+            "season": 4,
+            "episode": 14
+        },
+        {
+            "season": 3,
+            "episode": 20
+        },
+        {
+            "season": 2,
+            "episode": 3
+        },
+        {
+            "season": 2,
+            "episode": 4
+        },
+        {
+            "season": 4,
+            "episode": 13
+        },
+        {
+            "season": 2,
+            "episode": 21
+        },
+        {
+            "season": 2,
+            "episode": 22
+        },
+        {
+            "season": 4,
+            "episode": 15
+        },
+        {
+            "season": 1,
+            "episode": 15
+        },
+        {
+            "season": 2,
+            "episode": 18
+        },
+        {
+            "season": 2,
+            "episode": 21
+        },
+        {
+            "season": 2,
+            "episode": 22
+        },
+        {
+            "season": 4,
+            "episode": 15
+        },
+        {
+            "season": 2,
+            "episode": 1
+        },
+        {
+            "season": 2,
+            "episode": 2
+        },
+        {
+            "season": 4,
+            "episode": 12
+        },
+        {
+            "season": 4,
+            "episode": 13
+        },
+        {
+            "season": 1,
+            "episode": 1
+        },
+        {
+            "season": 1,
+            "episode": 2
+        },
+        {
+            "season": 1,
+            "episode": 15
+        },
+        {
+            "season": 1,
+            "episode": 10
+        },
+        {
+            "season": 2,
+            "episode": 1
+        },
+        {
+            "season": 2,
+            "episode": 2
+        },
+        {
+            "season": 2,
+            "episode": 3
+        },
+        {
+            "season": 2,
+            "episode": 4
+        },
+        {
+            "season": 2,
+            "episode": 10
+        },
+        {
+            "season": 2,
+            "episode": 15
+        },
+        {
+            "season": 2,
+            "episode": 18
+        },
+        {
+            "season": 2,
+            "episode": 21
+        },
+        {
+            "season": 2,
+            "episode": 22
+        },
+        {
+            "season": 3,
+            "episode": 1
+        },
+        {
+            "season": 3,
+            "episode": 2
+        },
+        {
+            "season": 3,
+            "episode": 15
+        },
+        {
+            "season": 3,
+            "episode": 16
+        },
+        {
+            "season": 3,
+            "episode": 21
+        },
+        {
+            "season": 3,
+            "episode": 22
+        },
+        {
+            "season": 4,
+            "episode": 1
+        },
+        {
+            "season": 4,
+            "episode": 2
+        },
+        {
+            "season": 4,
+            "episode": 7
+        },
+        {
+            "season": 4,
+            "episode": 9
+        },
+        {
+            "season": 4,
+            "episode": 10
+        },
+        {
+            "season": 4,
+            "episode": 11
+        },
+        {
+            "season": 4,
+            "episode": 12
+        },
+        {
+            "season": 4,
+            "episode": 13
+        },
+        {
+            "season": 4,
+            "episode": 14
+        },
+        {
+            "season": 4,
+            "episode": 15
+        },
+        {
+            "season": 4,
+            "episode": 16
+        },
+        {
+            "season": 2,
+            "episode": 21
+        },
+        {
+            "season": 2,
+            "episode": 22
+        }
+    ]
+}
