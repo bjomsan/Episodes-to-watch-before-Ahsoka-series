@@ -108,7 +108,7 @@ def print_all():
 Approx. time to watch:
 {total_minutes} minutes // {hours} hours and {minutes} minutes.
 """)
-    print("- Recommended  order of episodes -")
+    print("- Recommended order of episodes -")
     for i in all_episodes_sorted:
         print(f"{i[0]} - S{i[1]} E{i[2]} - mentions {i[3]}")
 
@@ -117,15 +117,16 @@ Approx. time to watch:
 # then call on the other functions to process and print output
 def main():
     global n
-    user_choice = int(input("""Choose action:
-1 - Choose how many episodes to watch
-2 - See complete list of recommendations
-> """))
-    if user_choice == 1:
-        n = int(input("""Insert number of episodes to watch:
+    user_choice = input("""Choose action:
+Press 1 - Choose how many episodes to watch
+Any other action will display total list of recommended episodes
+> """)
+    try:
+        if int(user_choice) == 1:
+            n = int(input("""Insert number of episodes to watch:
 > """))
         n_episodes(n)
-    else:
+    except:
         print_all()        
 
 
