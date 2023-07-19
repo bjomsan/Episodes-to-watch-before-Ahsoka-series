@@ -6,4 +6,6 @@ WHY? Many recommended episodes to watch are available on Google, but I didn't wa
 The data in the data.json file is manually collected from the top Google searches on what to watch before the upcoming Ahsoka series. 
 The JSON file is structured with one key for Clone Wars and one key for Rebels. Each key contains a list of values: "season" and "episode".
 
-The main.py file is the program that processes the JSON data and creates a list-output of episodes. This is mainly done by counting the number of mentions of each episode to then determine what episodes are more and less importaint.
+The main.py file is the program that processes the JSON data and creates a list-output of episodes. This is  done by counting the number of mentions of each episode to then determine what episodes are more and less important.
+
+To execute the program, run the main.py file with the data.json file in the same folder.
